@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Aria Company
-subtitle: ''
+title: ARIA COMPANY
+subtitle: '让人害羞的台词，禁止！'
 description: ''
-keywords:
+keywords: NVEOL,ANIME,COMICS
 author: 水无灯里
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://shuiwudengli.github.io/joplin-blog-template
+url: https://joplin-blog.aqua-aria.company/
 root: /
 permalink: /p/:abbrlink/
 permalink_defaults:
